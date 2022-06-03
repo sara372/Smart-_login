@@ -1,0 +1,38 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+h1 {
+    color: #17a2b8;
+}
+
+.main {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width: 65%;
+}
+#home {
+    height: 75vh;
+}
+.btn:hover{
+    color: white;
+}
+.well{
+    height: 100vh;
+}
+.navbar{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    background: #24353f;
+    
+}
+.welcome{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.navbar-brand {
+    color: white ;
+}
+.nav-link{
+    color: white ;
+}
+#username{
+    text-align: center;
+}
